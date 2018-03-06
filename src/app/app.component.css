@@ -1,0 +1,37 @@
+.centeredContainer
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.controls
+{
+  margin-top: 8px;
+}
+
+.smallTxt
+{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.padRight
+{
+  margin-right: 6px;
+}
+
+.fitText
+{
+  color: #0000ff;
+}
+
+.deepText
+{
+  color: crimson;
+}
+
+canvas
+{
+  border: 1px solid #cccccc;
+}
