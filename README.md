@@ -106,7 +106,7 @@ And, of course, deep learning is just plain cool, so experiment a bit with the d
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-[The Algorithmist]: <http://algorithmist.net>
+[The Algorithmist]: <https://www.linkedin.com/in/jimarmstrong>
 
 [check it out here]: <https://deeplearnjs.org/index.html>
 
